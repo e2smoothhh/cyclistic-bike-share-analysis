@@ -1,0 +1,7 @@
+rider_type,bike_type,count,pct
+casual,classic_bike,69827,5.3
+casual,docked_bike,1076952,82.3
+casual,electric_bike,162486,12.4
+member,classic_bike,245032,13.3
+member,docked_bike,1349423,73.1
+member,electric_bike,252655,13.7
